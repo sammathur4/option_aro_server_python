@@ -1,0 +1,26 @@
+[
+    {
+        "Exchange": "NFO",
+        "Token": "40e5c1ea-15a5-495f-9cd5-79b4ab1fa347",
+        "Timestamp": 0,
+        "IV": 0.0,
+        "Delta": 0.0,
+        "Theta": 0.0,
+        "Vega": 0.0,
+        "Gamma": 0.0,
+        "IVVwap": 0.0,
+        "Vanna": 0.0,
+        "Charm": 0.0,
+        "Speed": 0.0,
+        "Zomma": 0.0,
+        "Color": 0.0,
+        "Volga": 0.0,
+        "Veta": 0.0,
+        "ThetaGammaRatio": 0.0,
+        "ThetaVegaRatio": 0.0,
+        "DTR": 0.0,
+        "MessageType": "LastQuoteOptionGreeksResult",
+        "created_at": "2023-06-17 00:53:22.156840",
+        "updated_at": "2023-06-17 00:53:22.156840"
+    }
+]

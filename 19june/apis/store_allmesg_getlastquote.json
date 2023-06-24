@@ -1,0 +1,4089 @@
+{
+    "AllowVMRunning": false,
+    "MessageType": "AllowVMRunningResult"
+}
+{
+    "AllowServerOSRunning": false,
+    "MessageType": "AllowServerOSRunningResult"
+}
+{
+    "Result": [
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ACC-I",
+            "LastTradeTime": 1687168799,
+            "ServerTime": 1687168799,
+            "AverageTradedPrice": 1834.5,
+            "BuyPrice": 1825.5,
+            "BuyQty": 250,
+            "Close": 1860.0,
+            "High": 1867.75,
+            "Low": 1812.75,
+            "LastTradePrice": 1825.5,
+            "LastTradeQty": 0,
+            "Open": 1861.0,
+            "OpenInterest": 4934000,
+            "QuotationLot": 250.0,
+            "SellPrice": 1826.0,
+            "SellQty": 250,
+            "TotalQtyTraded": 1178000,
+            "Value": 2161041000.0,
+            "PreOpen": false,
+            "PriceChange": -34.5,
+            "PriceChangePercentage": -1.85,
+            "OpenInterestChange": 141750,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ADANIENT-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 2436.61,
+            "BuyPrice": 2418.95,
+            "BuyQty": 250,
+            "Close": 2513.9,
+            "High": 2529.25,
+            "Low": 2353.55,
+            "LastTradePrice": 2420.0,
+            "LastTradeQty": 750,
+            "Open": 2510.05,
+            "OpenInterest": 11065000,
+            "QuotationLot": 250.0,
+            "SellPrice": 2421.95,
+            "SellQty": 250,
+            "TotalQtyTraded": 8245000,
+            "Value": 20089849450.0,
+            "PreOpen": false,
+            "PriceChange": -93.9,
+            "PriceChangePercentage": -3.74,
+            "OpenInterestChange": 1359500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ADANIPORTS-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 738.11,
+            "BuyPrice": 736.4,
+            "BuyQty": 625,
+            "Close": 748.85,
+            "High": 752.05,
+            "Low": 730.85,
+            "LastTradePrice": 736.7,
+            "LastTradeQty": 3125,
+            "Open": 748.95,
+            "OpenInterest": 32000000,
+            "QuotationLot": 625.0,
+            "SellPrice": 737.15,
+            "SellQty": 625,
+            "TotalQtyTraded": 6133750,
+            "Value": 4527382212.5,
+            "PreOpen": false,
+            "PriceChange": -12.15,
+            "PriceChangePercentage": -1.62,
+            "OpenInterestChange": 857500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "AMBUJACEM-I",
+            "LastTradeTime": 1687168810,
+            "ServerTime": 1687168810,
+            "AverageTradedPrice": 455.78,
+            "BuyPrice": 455.1,
+            "BuyQty": 1800,
+            "Close": 462.8,
+            "High": 465.2,
+            "Low": 450.75,
+            "LastTradePrice": 455.0,
+            "LastTradeQty": 0,
+            "Open": 462.55,
+            "OpenInterest": 52434000,
+            "QuotationLot": 1800.0,
+            "SellPrice": 455.4,
+            "SellQty": 1800,
+            "TotalQtyTraded": 8073000,
+            "Value": 3679511940.0,
+            "PreOpen": false,
+            "PriceChange": -7.8,
+            "PriceChangePercentage": -1.69,
+            "OpenInterestChange": -235800,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "APOLLOHOSP-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 5204.25,
+            "BuyPrice": 5174.05,
+            "BuyQty": 125,
+            "Close": 5224.1,
+            "High": 5271.7,
+            "Low": 5161.85,
+            "LastTradePrice": 5179.65,
+            "LastTradeQty": 0,
+            "Open": 5244.7,
+            "OpenInterest": 1937125,
+            "QuotationLot": 125.0,
+            "SellPrice": 5179.7,
+            "SellQty": 125,
+            "TotalQtyTraded": 405750,
+            "Value": 2111624437.5,
+            "PreOpen": false,
+            "PriceChange": -44.45,
+            "PriceChangePercentage": -0.85,
+            "OpenInterestChange": -28125,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASHOKLEY-I",
+            "LastTradeTime": 1687168810,
+            "ServerTime": 1687168810,
+            "AverageTradedPrice": 168.84,
+            "BuyPrice": 168.9,
+            "BuyQty": 5000,
+            "Close": 165.2,
+            "High": 170.55,
+            "Low": 165.5,
+            "LastTradePrice": 168.95,
+            "LastTradeQty": 20000,
+            "Open": 165.5,
+            "OpenInterest": 63685000,
+            "QuotationLot": 5000.0,
+            "SellPrice": 169.0,
+            "SellQty": 10000,
+            "TotalQtyTraded": 39650000,
+            "Value": 6694506000.0,
+            "PreOpen": false,
+            "PriceChange": 3.75,
+            "PriceChangePercentage": 2.27,
+            "OpenInterestChange": 2545000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASIANPAINT-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 3322.72,
+            "BuyPrice": 3315.05,
+            "BuyQty": 400,
+            "Close": 3326.4,
+            "High": 3346.4,
+            "Low": 3308.25,
+            "LastTradePrice": 3319.45,
+            "LastTradeQty": 200,
+            "Open": 3320.1,
+            "OpenInterest": 4950400,
+            "QuotationLot": 200.0,
+            "SellPrice": 3319.45,
+            "SellQty": 200,
+            "TotalQtyTraded": 565800,
+            "Value": 1879994976.0,
+            "PreOpen": false,
+            "PriceChange": -6.95,
+            "PriceChangePercentage": -0.21,
+            "OpenInterestChange": -54000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASTRAL-I",
+            "LastTradeTime": 1687168799,
+            "ServerTime": 1687168799,
+            "AverageTradedPrice": 1991.33,
+            "BuyPrice": 1983.0,
+            "BuyQty": 367,
+            "Close": 1969.6,
+            "High": 2008.6,
+            "Low": 1971.15,
+            "LastTradePrice": 1983.1,
+            "LastTradeQty": 0,
+            "Open": 1976.0,
+            "OpenInterest": 2073917,
+            "QuotationLot": 367.0,
+            "SellPrice": 1985.0,
+            "SellQty": 734,
+            "TotalQtyTraded": 742074,
+            "Value": 1477714218.42,
+            "PreOpen": false,
+            "PriceChange": 13.5,
+            "PriceChangePercentage": 0.69,
+            "OpenInterestChange": 49912,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "AUBANK-I",
+            "LastTradeTime": 1687168810,
+            "ServerTime": 1687168810,
+            "AverageTradedPrice": 773.39,
+            "BuyPrice": 772.1,
+            "BuyQty": 1000,
+            "Close": 779.25,
+            "High": 783.8,
+            "Low": 768.1,
+            "LastTradePrice": 772.9,
+            "LastTradeQty": 4000,
+            "Open": 780.25,
+            "OpenInterest": 10438000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 773.2,
+            "SellQty": 3000,
+            "TotalQtyTraded": 1592000,
+            "Value": 1231236880.0,
+            "PreOpen": false,
+            "PriceChange": -6.35,
+            "PriceChangePercentage": -0.81,
+            "OpenInterestChange": 66000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "AUROPHARMA-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 688.01,
+            "BuyPrice": 680.65,
+            "BuyQty": 1000,
+            "Close": 684.55,
+            "High": 694.95,
+            "Low": 680.15,
+            "LastTradePrice": 681.55,
+            "LastTradeQty": 0,
+            "Open": 683.1,
+            "OpenInterest": 9341000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 681.5,
+            "SellQty": 1000,
+            "TotalQtyTraded": 3479000,
+            "Value": 2393586790.0,
+            "PreOpen": false,
+            "PriceChange": -3.0,
+            "PriceChangePercentage": -0.44,
+            "OpenInterestChange": 144000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASHOKLEY-I",
+            "LastTradeTime": 1687168810,
+            "ServerTime": 1687168810,
+            "AverageTradedPrice": 168.84,
+            "BuyPrice": 168.9,
+            "BuyQty": 5000,
+            "Close": 165.2,
+            "High": 170.55,
+            "Low": 165.5,
+            "LastTradePrice": 168.95,
+            "LastTradeQty": 20000,
+            "Open": 165.5,
+            "OpenInterest": 63685000,
+            "QuotationLot": 5000.0,
+            "SellPrice": 169.0,
+            "SellQty": 10000,
+            "TotalQtyTraded": 39650000,
+            "Value": 6694506000.0,
+            "PreOpen": false,
+            "PriceChange": 3.75,
+            "PriceChangePercentage": 2.27,
+            "OpenInterestChange": 2545000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BAJAJ-AUTO-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 4629.29,
+            "BuyPrice": 4618.25,
+            "BuyQty": 250,
+            "Close": 4664.95,
+            "High": 4664.3,
+            "Low": 4607.55,
+            "LastTradePrice": 4619.15,
+            "LastTradeQty": 1250,
+            "Open": 4649.25,
+            "OpenInterest": 2519500,
+            "QuotationLot": 250.0,
+            "SellPrice": 4620.9,
+            "SellQty": 250,
+            "TotalQtyTraded": 520750,
+            "Value": 2410702767.5,
+            "PreOpen": false,
+            "PriceChange": -45.8,
+            "PriceChangePercentage": -0.98,
+            "OpenInterestChange": 11250,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BAJAJFINSV-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 1539.35,
+            "BuyPrice": 1544.55,
+            "BuyQty": 500,
+            "Close": 1512.85,
+            "High": 1555.6,
+            "Low": 1517.9,
+            "LastTradePrice": 1544.1,
+            "LastTradeQty": 0,
+            "Open": 1518.15,
+            "OpenInterest": 8279500,
+            "QuotationLot": 500.0,
+            "SellPrice": 1545.9,
+            "SellQty": 500,
+            "TotalQtyTraded": 5006000,
+            "Value": 7705986100.0,
+            "PreOpen": false,
+            "PriceChange": 31.25,
+            "PriceChangePercentage": 2.07,
+            "OpenInterestChange": 507000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BAJFINANCE-I",
+            "LastTradeTime": 1687168798,
+            "ServerTime": 1687168798,
+            "AverageTradedPrice": 7331.87,
+            "BuyPrice": 7389.95,
+            "BuyQty": 250,
+            "Close": 7218.35,
+            "High": 7402.55,
+            "Low": 7212.25,
+            "LastTradePrice": 7390.85,
+            "LastTradeQty": 0,
+            "Open": 7231.0,
+            "OpenInterest": 3672125,
+            "QuotationLot": 125.0,
+            "SellPrice": 7390.85,
+            "SellQty": 125,
+            "TotalQtyTraded": 1996500,
+            "Value": 14638078455.0,
+            "PreOpen": false,
+            "PriceChange": 172.5,
+            "PriceChangePercentage": 2.39,
+            "OpenInterestChange": 174500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BANDHANBNK-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 250.99,
+            "BuyPrice": 250.6,
+            "BuyQty": 1800,
+            "Close": 254.5,
+            "High": 255.25,
+            "Low": 248.65,
+            "LastTradePrice": 250.8,
+            "LastTradeQty": 7200,
+            "Open": 254.45,
+            "OpenInterest": 32997600,
+            "QuotationLot": 1800.0,
+            "SellPrice": 250.95,
+            "SellQty": 1800,
+            "TotalQtyTraded": 7007400,
+            "Value": 1758787326.0,
+            "PreOpen": false,
+            "PriceChange": -3.7,
+            "PriceChangePercentage": -1.45,
+            "OpenInterestChange": 736200,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BANKBARODA-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 193.54,
+            "BuyPrice": 195.05,
+            "BuyQty": 11700,
+            "Close": 188.6,
+            "High": 195.7,
+            "Low": 188.55,
+            "LastTradePrice": 195.15,
+            "LastTradeQty": 70200,
+            "Open": 188.65,
+            "OpenInterest": 93699450,
+            "QuotationLot": 5850.0,
+            "SellPrice": 195.15,
+            "SellQty": 5850,
+            "TotalQtyTraded": 64443600,
+            "Value": 12472414344.0,
+            "PreOpen": false,
+            "PriceChange": 6.55,
+            "PriceChangePercentage": 3.47,
+            "OpenInterestChange": 4141800,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BATAINDIA-I",
+            "LastTradeTime": 1687168804,
+            "ServerTime": 1687168804,
+            "AverageTradedPrice": 1626.06,
+            "BuyPrice": 1629.65,
+            "BuyQty": 275,
+            "Close": 1620.0,
+            "High": 1633.4,
+            "Low": 1611.3,
+            "LastTradePrice": 1630.15,
+            "LastTradeQty": 550,
+            "Open": 1614.3,
+            "OpenInterest": 1720400,
+            "QuotationLot": 275.0,
+            "SellPrice": 1630.75,
+            "SellQty": 275,
+            "TotalQtyTraded": 372900,
+            "Value": 606357774.0,
+            "PreOpen": false,
+            "PriceChange": 10.15,
+            "PriceChangePercentage": 0.63,
+            "OpenInterestChange": 12650,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BEL-I",
+            "LastTradeTime": 1687168804,
+            "ServerTime": 1687168804,
+            "AverageTradedPrice": 125.62,
+            "BuyPrice": 125.4,
+            "BuyQty": 5700,
+            "Close": 125.6,
+            "High": 126.6,
+            "Low": 124.65,
+            "LastTradePrice": 125.6,
+            "LastTradeQty": 28500,
+            "Open": 126.6,
+            "OpenInterest": 69750900,
+            "QuotationLot": 5700.0,
+            "SellPrice": 125.55,
+            "SellQty": 5700,
+            "TotalQtyTraded": 16159500,
+            "Value": 2029956390.0,
+            "PreOpen": false,
+            "PriceChange": 0.0,
+            "PriceChangePercentage": 0.0,
+            "OpenInterestChange": 239400,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BERGEPAINT-I",
+            "LastTradeTime": 1687168804,
+            "ServerTime": 1687168804,
+            "AverageTradedPrice": 679.26,
+            "BuyPrice": 675.15,
+            "BuyQty": 1100,
+            "Close": 675.1,
+            "High": 683.15,
+            "Low": 671.2,
+            "LastTradePrice": 675.65,
+            "LastTradeQty": 1100,
+            "Open": 671.2,
+            "OpenInterest": 7717600,
+            "QuotationLot": 1100.0,
+            "SellPrice": 675.65,
+            "SellQty": 2200,
+            "TotalQtyTraded": 771100,
+            "Value": 523777386.0,
+            "PreOpen": false,
+            "PriceChange": 0.55,
+            "PriceChangePercentage": 0.08,
+            "OpenInterestChange": -90200,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BHARATFORG-I",
+            "LastTradeTime": 1687168796,
+            "ServerTime": 1687168796,
+            "AverageTradedPrice": 836.94,
+            "BuyPrice": 829.35,
+            "BuyQty": 1000,
+            "Close": 839.6,
+            "High": 847.35,
+            "Low": 827.75,
+            "LastTradePrice": 830.8,
+            "LastTradeQty": 0,
+            "Open": 836.85,
+            "OpenInterest": 7899000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 830.85,
+            "SellQty": 1000,
+            "TotalQtyTraded": 2570000,
+            "Value": 2150935800.0,
+            "PreOpen": false,
+            "PriceChange": -8.8,
+            "PriceChangePercentage": -1.05,
+            "OpenInterestChange": 250000,
+            "MessageType": "LastQuoteResult"
+        }
+    ],
+    "MessageType": "LastQuoteArrayResult"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "AllowVMRunning": false,
+    "MessageType": "AllowVMRunningResult"
+}
+{
+    "AllowServerOSRunning": false,
+    "MessageType": "AllowServerOSRunningResult"
+}
+{
+    "Result": [
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ACC-I",
+            "LastTradeTime": 1687168799,
+            "ServerTime": 1687168799,
+            "AverageTradedPrice": 1834.5,
+            "BuyPrice": 1825.5,
+            "BuyQty": 250,
+            "Close": 1860.0,
+            "High": 1867.75,
+            "Low": 1812.75,
+            "LastTradePrice": 1825.5,
+            "LastTradeQty": 0,
+            "Open": 1861.0,
+            "OpenInterest": 4934000,
+            "QuotationLot": 250.0,
+            "SellPrice": 1826.0,
+            "SellQty": 250,
+            "TotalQtyTraded": 1178000,
+            "Value": 2161041000.0,
+            "PreOpen": false,
+            "PriceChange": -34.5,
+            "PriceChangePercentage": -1.85,
+            "OpenInterestChange": 141750,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ADANIENT-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 2436.61,
+            "BuyPrice": 2418.95,
+            "BuyQty": 250,
+            "Close": 2513.9,
+            "High": 2529.25,
+            "Low": 2353.55,
+            "LastTradePrice": 2420.0,
+            "LastTradeQty": 750,
+            "Open": 2510.05,
+            "OpenInterest": 11065000,
+            "QuotationLot": 250.0,
+            "SellPrice": 2421.95,
+            "SellQty": 250,
+            "TotalQtyTraded": 8245000,
+            "Value": 20089849450.0,
+            "PreOpen": false,
+            "PriceChange": -93.9,
+            "PriceChangePercentage": -3.74,
+            "OpenInterestChange": 1359500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ADANIPORTS-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 738.11,
+            "BuyPrice": 736.4,
+            "BuyQty": 625,
+            "Close": 748.85,
+            "High": 752.05,
+            "Low": 730.85,
+            "LastTradePrice": 736.7,
+            "LastTradeQty": 3125,
+            "Open": 748.95,
+            "OpenInterest": 32000000,
+            "QuotationLot": 625.0,
+            "SellPrice": 737.15,
+            "SellQty": 625,
+            "TotalQtyTraded": 6133750,
+            "Value": 4527382212.5,
+            "PreOpen": false,
+            "PriceChange": -12.15,
+            "PriceChangePercentage": -1.62,
+            "OpenInterestChange": 857500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "AMBUJACEM-I",
+            "LastTradeTime": 1687168810,
+            "ServerTime": 1687168810,
+            "AverageTradedPrice": 455.78,
+            "BuyPrice": 455.1,
+            "BuyQty": 1800,
+            "Close": 462.8,
+            "High": 465.2,
+            "Low": 450.75,
+            "LastTradePrice": 455.0,
+            "LastTradeQty": 0,
+            "Open": 462.55,
+            "OpenInterest": 52434000,
+            "QuotationLot": 1800.0,
+            "SellPrice": 455.4,
+            "SellQty": 1800,
+            "TotalQtyTraded": 8073000,
+            "Value": 3679511940.0,
+            "PreOpen": false,
+            "PriceChange": -7.8,
+            "PriceChangePercentage": -1.69,
+            "OpenInterestChange": -235800,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "APOLLOHOSP-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 5204.25,
+            "BuyPrice": 5174.05,
+            "BuyQty": 125,
+            "Close": 5224.1,
+            "High": 5271.7,
+            "Low": 5161.85,
+            "LastTradePrice": 5179.65,
+            "LastTradeQty": 0,
+            "Open": 5244.7,
+            "OpenInterest": 1937125,
+            "QuotationLot": 125.0,
+            "SellPrice": 5179.7,
+            "SellQty": 125,
+            "TotalQtyTraded": 405750,
+            "Value": 2111624437.5,
+            "PreOpen": false,
+            "PriceChange": -44.45,
+            "PriceChangePercentage": -0.85,
+            "OpenInterestChange": -28125,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASHOKLEY-I",
+            "LastTradeTime": 1687168810,
+            "ServerTime": 1687168810,
+            "AverageTradedPrice": 168.84,
+            "BuyPrice": 168.9,
+            "BuyQty": 5000,
+            "Close": 165.2,
+            "High": 170.55,
+            "Low": 165.5,
+            "LastTradePrice": 168.95,
+            "LastTradeQty": 20000,
+            "Open": 165.5,
+            "OpenInterest": 63685000,
+            "QuotationLot": 5000.0,
+            "SellPrice": 169.0,
+            "SellQty": 10000,
+            "TotalQtyTraded": 39650000,
+            "Value": 6694506000.0,
+            "PreOpen": false,
+            "PriceChange": 3.75,
+            "PriceChangePercentage": 2.27,
+            "OpenInterestChange": 2545000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASIANPAINT-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 3322.72,
+            "BuyPrice": 3315.05,
+            "BuyQty": 400,
+            "Close": 3326.4,
+            "High": 3346.4,
+            "Low": 3308.25,
+            "LastTradePrice": 3319.45,
+            "LastTradeQty": 200,
+            "Open": 3320.1,
+            "OpenInterest": 4950400,
+            "QuotationLot": 200.0,
+            "SellPrice": 3319.45,
+            "SellQty": 200,
+            "TotalQtyTraded": 565800,
+            "Value": 1879994976.0,
+            "PreOpen": false,
+            "PriceChange": -6.95,
+            "PriceChangePercentage": -0.21,
+            "OpenInterestChange": -54000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASTRAL-I",
+            "LastTradeTime": 1687168799,
+            "ServerTime": 1687168799,
+            "AverageTradedPrice": 1991.33,
+            "BuyPrice": 1983.0,
+            "BuyQty": 367,
+            "Close": 1969.6,
+            "High": 2008.6,
+            "Low": 1971.15,
+            "LastTradePrice": 1983.1,
+            "LastTradeQty": 0,
+            "Open": 1976.0,
+            "OpenInterest": 2073917,
+            "QuotationLot": 367.0,
+            "SellPrice": 1985.0,
+            "SellQty": 734,
+            "TotalQtyTraded": 742074,
+            "Value": 1477714218.42,
+            "PreOpen": false,
+            "PriceChange": 13.5,
+            "PriceChangePercentage": 0.69,
+            "OpenInterestChange": 49912,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "AUBANK-I",
+            "LastTradeTime": 1687168810,
+            "ServerTime": 1687168810,
+            "AverageTradedPrice": 773.39,
+            "BuyPrice": 772.1,
+            "BuyQty": 1000,
+            "Close": 779.25,
+            "High": 783.8,
+            "Low": 768.1,
+            "LastTradePrice": 772.9,
+            "LastTradeQty": 4000,
+            "Open": 780.25,
+            "OpenInterest": 10438000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 773.2,
+            "SellQty": 3000,
+            "TotalQtyTraded": 1592000,
+            "Value": 1231236880.0,
+            "PreOpen": false,
+            "PriceChange": -6.35,
+            "PriceChangePercentage": -0.81,
+            "OpenInterestChange": 66000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "AUROPHARMA-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 688.01,
+            "BuyPrice": 680.65,
+            "BuyQty": 1000,
+            "Close": 684.55,
+            "High": 694.95,
+            "Low": 680.15,
+            "LastTradePrice": 681.55,
+            "LastTradeQty": 0,
+            "Open": 683.1,
+            "OpenInterest": 9341000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 681.5,
+            "SellQty": 1000,
+            "TotalQtyTraded": 3479000,
+            "Value": 2393586790.0,
+            "PreOpen": false,
+            "PriceChange": -3.0,
+            "PriceChangePercentage": -0.44,
+            "OpenInterestChange": 144000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASHOKLEY-I",
+            "LastTradeTime": 1687168810,
+            "ServerTime": 1687168810,
+            "AverageTradedPrice": 168.84,
+            "BuyPrice": 168.9,
+            "BuyQty": 5000,
+            "Close": 165.2,
+            "High": 170.55,
+            "Low": 165.5,
+            "LastTradePrice": 168.95,
+            "LastTradeQty": 20000,
+            "Open": 165.5,
+            "OpenInterest": 63685000,
+            "QuotationLot": 5000.0,
+            "SellPrice": 169.0,
+            "SellQty": 10000,
+            "TotalQtyTraded": 39650000,
+            "Value": 6694506000.0,
+            "PreOpen": false,
+            "PriceChange": 3.75,
+            "PriceChangePercentage": 2.27,
+            "OpenInterestChange": 2545000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BAJAJ-AUTO-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 4629.29,
+            "BuyPrice": 4618.25,
+            "BuyQty": 250,
+            "Close": 4664.95,
+            "High": 4664.3,
+            "Low": 4607.55,
+            "LastTradePrice": 4619.15,
+            "LastTradeQty": 1250,
+            "Open": 4649.25,
+            "OpenInterest": 2519500,
+            "QuotationLot": 250.0,
+            "SellPrice": 4620.9,
+            "SellQty": 250,
+            "TotalQtyTraded": 520750,
+            "Value": 2410702767.5,
+            "PreOpen": false,
+            "PriceChange": -45.8,
+            "PriceChangePercentage": -0.98,
+            "OpenInterestChange": 11250,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BAJAJFINSV-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 1539.35,
+            "BuyPrice": 1544.55,
+            "BuyQty": 500,
+            "Close": 1512.85,
+            "High": 1555.6,
+            "Low": 1517.9,
+            "LastTradePrice": 1544.1,
+            "LastTradeQty": 0,
+            "Open": 1518.15,
+            "OpenInterest": 8279500,
+            "QuotationLot": 500.0,
+            "SellPrice": 1545.9,
+            "SellQty": 500,
+            "TotalQtyTraded": 5006000,
+            "Value": 7705986100.0,
+            "PreOpen": false,
+            "PriceChange": 31.25,
+            "PriceChangePercentage": 2.07,
+            "OpenInterestChange": 507000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BAJFINANCE-I",
+            "LastTradeTime": 1687168798,
+            "ServerTime": 1687168798,
+            "AverageTradedPrice": 7331.87,
+            "BuyPrice": 7389.95,
+            "BuyQty": 250,
+            "Close": 7218.35,
+            "High": 7402.55,
+            "Low": 7212.25,
+            "LastTradePrice": 7390.85,
+            "LastTradeQty": 0,
+            "Open": 7231.0,
+            "OpenInterest": 3672125,
+            "QuotationLot": 125.0,
+            "SellPrice": 7390.85,
+            "SellQty": 125,
+            "TotalQtyTraded": 1996500,
+            "Value": 14638078455.0,
+            "PreOpen": false,
+            "PriceChange": 172.5,
+            "PriceChangePercentage": 2.39,
+            "OpenInterestChange": 174500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BANDHANBNK-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 250.99,
+            "BuyPrice": 250.6,
+            "BuyQty": 1800,
+            "Close": 254.5,
+            "High": 255.25,
+            "Low": 248.65,
+            "LastTradePrice": 250.8,
+            "LastTradeQty": 7200,
+            "Open": 254.45,
+            "OpenInterest": 32997600,
+            "QuotationLot": 1800.0,
+            "SellPrice": 250.95,
+            "SellQty": 1800,
+            "TotalQtyTraded": 7007400,
+            "Value": 1758787326.0,
+            "PreOpen": false,
+            "PriceChange": -3.7,
+            "PriceChangePercentage": -1.45,
+            "OpenInterestChange": 736200,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BANKBARODA-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 193.54,
+            "BuyPrice": 195.05,
+            "BuyQty": 11700,
+            "Close": 188.6,
+            "High": 195.7,
+            "Low": 188.55,
+            "LastTradePrice": 195.15,
+            "LastTradeQty": 70200,
+            "Open": 188.65,
+            "OpenInterest": 93699450,
+            "QuotationLot": 5850.0,
+            "SellPrice": 195.15,
+            "SellQty": 5850,
+            "TotalQtyTraded": 64443600,
+            "Value": 12472414344.0,
+            "PreOpen": false,
+            "PriceChange": 6.55,
+            "PriceChangePercentage": 3.47,
+            "OpenInterestChange": 4141800,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BATAINDIA-I",
+            "LastTradeTime": 1687168804,
+            "ServerTime": 1687168804,
+            "AverageTradedPrice": 1626.06,
+            "BuyPrice": 1629.65,
+            "BuyQty": 275,
+            "Close": 1620.0,
+            "High": 1633.4,
+            "Low": 1611.3,
+            "LastTradePrice": 1630.15,
+            "LastTradeQty": 550,
+            "Open": 1614.3,
+            "OpenInterest": 1720400,
+            "QuotationLot": 275.0,
+            "SellPrice": 1630.75,
+            "SellQty": 275,
+            "TotalQtyTraded": 372900,
+            "Value": 606357774.0,
+            "PreOpen": false,
+            "PriceChange": 10.15,
+            "PriceChangePercentage": 0.63,
+            "OpenInterestChange": 12650,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BEL-I",
+            "LastTradeTime": 1687168804,
+            "ServerTime": 1687168804,
+            "AverageTradedPrice": 125.62,
+            "BuyPrice": 125.4,
+            "BuyQty": 5700,
+            "Close": 125.6,
+            "High": 126.6,
+            "Low": 124.65,
+            "LastTradePrice": 125.6,
+            "LastTradeQty": 28500,
+            "Open": 126.6,
+            "OpenInterest": 69750900,
+            "QuotationLot": 5700.0,
+            "SellPrice": 125.55,
+            "SellQty": 5700,
+            "TotalQtyTraded": 16159500,
+            "Value": 2029956390.0,
+            "PreOpen": false,
+            "PriceChange": 0.0,
+            "PriceChangePercentage": 0.0,
+            "OpenInterestChange": 239400,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BERGEPAINT-I",
+            "LastTradeTime": 1687168804,
+            "ServerTime": 1687168804,
+            "AverageTradedPrice": 679.26,
+            "BuyPrice": 675.15,
+            "BuyQty": 1100,
+            "Close": 675.1,
+            "High": 683.15,
+            "Low": 671.2,
+            "LastTradePrice": 675.65,
+            "LastTradeQty": 1100,
+            "Open": 671.2,
+            "OpenInterest": 7717600,
+            "QuotationLot": 1100.0,
+            "SellPrice": 675.65,
+            "SellQty": 2200,
+            "TotalQtyTraded": 771100,
+            "Value": 523777386.0,
+            "PreOpen": false,
+            "PriceChange": 0.55,
+            "PriceChangePercentage": 0.08,
+            "OpenInterestChange": -90200,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BHARATFORG-I",
+            "LastTradeTime": 1687168796,
+            "ServerTime": 1687168796,
+            "AverageTradedPrice": 836.94,
+            "BuyPrice": 829.35,
+            "BuyQty": 1000,
+            "Close": 839.6,
+            "High": 847.35,
+            "Low": 827.75,
+            "LastTradePrice": 830.8,
+            "LastTradeQty": 0,
+            "Open": 836.85,
+            "OpenInterest": 7899000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 830.85,
+            "SellQty": 1000,
+            "TotalQtyTraded": 2570000,
+            "Value": 2150935800.0,
+            "PreOpen": false,
+            "PriceChange": -8.8,
+            "PriceChangePercentage": -1.05,
+            "OpenInterestChange": 250000,
+            "MessageType": "LastQuoteResult"
+        }
+    ],
+    "MessageType": "LastQuoteArrayResult"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "AllowVMRunning": false,
+    "MessageType": "AllowVMRunningResult"
+}
+{
+    "AllowServerOSRunning": false,
+    "MessageType": "AllowServerOSRunningResult"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "AllowVMRunning": false,
+    "MessageType": "AllowVMRunningResult"
+}
+{
+    "AllowServerOSRunning": false,
+    "MessageType": "AllowServerOSRunningResult"
+}
+{
+    "Result": [
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "MGL-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 1038.95,
+            "BuyPrice": 1033.75,
+            "BuyQty": 800,
+            "Close": 1048.7,
+            "High": 1056.9,
+            "Low": 1027.6,
+            "LastTradePrice": 1034.0,
+            "LastTradeQty": 800,
+            "Open": 1056.9,
+            "OpenInterest": 2074400,
+            "QuotationLot": 800.0,
+            "SellPrice": 1035.0,
+            "SellQty": 800,
+            "TotalQtyTraded": 716000,
+            "Value": 743888200.0,
+            "PreOpen": false,
+            "PriceChange": -14.7,
+            "PriceChangePercentage": -1.4,
+            "OpenInterestChange": 76000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "MPHASIS-I",
+            "LastTradeTime": 1687168798,
+            "ServerTime": 1687168798,
+            "AverageTradedPrice": 1869.98,
+            "BuyPrice": 1876.0,
+            "BuyQty": 275,
+            "Close": 1868.2,
+            "High": 1879.5,
+            "Low": 1856.75,
+            "LastTradePrice": 1876.35,
+            "LastTradeQty": 0,
+            "Open": 1863.65,
+            "OpenInterest": 2981275,
+            "QuotationLot": 275.0,
+            "SellPrice": 1876.45,
+            "SellQty": 275,
+            "TotalQtyTraded": 383075,
+            "Value": 716342588.5,
+            "PreOpen": false,
+            "PriceChange": 8.15,
+            "PriceChangePercentage": 0.44,
+            "OpenInterestChange": 1925,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "MUTHOOTFIN-I",
+            "LastTradeTime": 1687168799,
+            "ServerTime": 1687168799,
+            "AverageTradedPrice": 1182.96,
+            "BuyPrice": 1186.0,
+            "BuyQty": 550,
+            "Close": 1173.3,
+            "High": 1189.55,
+            "Low": 1167.2,
+            "LastTradePrice": 1185.9,
+            "LastTradeQty": 0,
+            "Open": 1170.0,
+            "OpenInterest": 5424650,
+            "QuotationLot": 550.0,
+            "SellPrice": 1186.45,
+            "SellQty": 550,
+            "TotalQtyTraded": 832700,
+            "Value": 985050792.0,
+            "PreOpen": false,
+            "PriceChange": 12.6,
+            "PriceChangePercentage": 1.07,
+            "OpenInterestChange": 52800,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "NAUKRI-I",
+            "LastTradeTime": 1687168799,
+            "ServerTime": 1687168799,
+            "AverageTradedPrice": 4458.48,
+            "BuyPrice": 4452.05,
+            "BuyQty": 125,
+            "Close": 4431.05,
+            "High": 4496.15,
+            "Low": 4409.5,
+            "LastTradePrice": 4457.75,
+            "LastTradeQty": 0,
+            "Open": 4435.0,
+            "OpenInterest": 1505250,
+            "QuotationLot": 125.0,
+            "SellPrice": 4457.75,
+            "SellQty": 125,
+            "TotalQtyTraded": 350250,
+            "Value": 1561582620.0,
+            "PreOpen": false,
+            "PriceChange": 26.7,
+            "PriceChangePercentage": 0.6,
+            "OpenInterestChange": 30500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "NAVINFLUOR-I",
+            "LastTradeTime": 1687168805,
+            "ServerTime": 1687168805,
+            "AverageTradedPrice": 4671.14,
+            "BuyPrice": 4661.05,
+            "BuyQty": 150,
+            "Close": 4677.7,
+            "High": 4709.35,
+            "Low": 4639.9,
+            "LastTradePrice": 4663.6,
+            "LastTradeQty": 0,
+            "Open": 4709.0,
+            "OpenInterest": 646050,
+            "QuotationLot": 150.0,
+            "SellPrice": 4669.45,
+            "SellQty": 150,
+            "TotalQtyTraded": 100500,
+            "Value": 469449570.0,
+            "PreOpen": false,
+            "PriceChange": -14.1,
+            "PriceChangePercentage": -0.3,
+            "OpenInterestChange": -13200,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "NESTLEIND-I",
+            "LastTradeTime": 1687168795,
+            "ServerTime": 1687168795,
+            "AverageTradedPrice": 22986.19,
+            "BuyPrice": 22880.05,
+            "BuyQty": 40,
+            "Close": 23040.95,
+            "High": 23200.95,
+            "Low": 22826.65,
+            "LastTradePrice": 22913.65,
+            "LastTradeQty": 0,
+            "Open": 23200.95,
+            "OpenInterest": 384280,
+            "QuotationLot": 40.0,
+            "SellPrice": 22915.9,
+            "SellQty": 40,
+            "TotalQtyTraded": 42280,
+            "Value": 971856113.2,
+            "PreOpen": false,
+            "PriceChange": -127.3,
+            "PriceChangePercentage": -0.55,
+            "OpenInterestChange": -1360,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "NMDC-I",
+            "LastTradeTime": 1687168805,
+            "ServerTime": 1687168805,
+            "AverageTradedPrice": 107.2,
+            "BuyPrice": 106.7,
+            "BuyQty": 4500,
+            "Close": 107.55,
+            "High": 108.15,
+            "Low": 106.55,
+            "LastTradePrice": 106.8,
+            "LastTradeQty": 4500,
+            "Open": 107.55,
+            "OpenInterest": 57537000,
+            "QuotationLot": 4500.0,
+            "SellPrice": 106.8,
+            "SellQty": 27000,
+            "TotalQtyTraded": 7956000,
+            "Value": 852883200.0,
+            "PreOpen": false,
+            "PriceChange": -0.75,
+            "PriceChangePercentage": -0.7,
+            "OpenInterestChange": 1440000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "NTPC-I",
+            "LastTradeTime": 1687168805,
+            "ServerTime": 1687168805,
+            "AverageTradedPrice": 186.61,
+            "BuyPrice": 186.25,
+            "BuyQty": 5700,
+            "Close": 188.5,
+            "High": 188.9,
+            "Low": 185.65,
+            "LastTradePrice": 186.3,
+            "LastTradeQty": 11400,
+            "Open": 188.9,
+            "OpenInterest": 72885900,
+            "QuotationLot": 5700.0,
+            "SellPrice": 186.4,
+            "SellQty": 11400,
+            "TotalQtyTraded": 11947200,
+            "Value": 2229466992.0,
+            "PreOpen": false,
+            "PriceChange": -2.2,
+            "PriceChangePercentage": -1.17,
+            "OpenInterestChange": -1065900,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "OFSS-I",
+            "LastTradeTime": 1687168799,
+            "ServerTime": 1687168799,
+            "AverageTradedPrice": 3868.66,
+            "BuyPrice": 3881.95,
+            "BuyQty": 200,
+            "Close": 3890.95,
+            "High": 3913.8,
+            "Low": 3838.05,
+            "LastTradePrice": 3888.7,
+            "LastTradeQty": 0,
+            "Open": 3892.0,
+            "OpenInterest": 380200,
+            "QuotationLot": 200.0,
+            "SellPrice": 3889.65,
+            "SellQty": 200,
+            "TotalQtyTraded": 179400,
+            "Value": 694037604.0,
+            "PreOpen": false,
+            "PriceChange": -2.25,
+            "PriceChangePercentage": -0.06,
+            "OpenInterestChange": 2800,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ONGC-I",
+            "LastTradeTime": 1687168807,
+            "ServerTime": 1687168807,
+            "AverageTradedPrice": 157.96,
+            "BuyPrice": 158.1,
+            "BuyQty": 7700,
+            "Close": 157.45,
+            "High": 158.7,
+            "Low": 156.55,
+            "LastTradePrice": 158.25,
+            "LastTradeQty": 3850,
+            "Open": 158.25,
+            "OpenInterest": 48136550,
+            "QuotationLot": 3850.0,
+            "SellPrice": 158.3,
+            "SellQty": 7700,
+            "TotalQtyTraded": 5024250,
+            "Value": 793630530.0,
+            "PreOpen": false,
+            "PriceChange": 0.8,
+            "PriceChangePercentage": 0.51,
+            "OpenInterestChange": -508200,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "PEL-I",
+            "LastTradeTime": 1687168799,
+            "ServerTime": 1687168799,
+            "AverageTradedPrice": 796.08,
+            "BuyPrice": 797.05,
+            "BuyQty": 550,
+            "Close": 786.05,
+            "High": 809.8,
+            "Low": 783.6,
+            "LastTradePrice": 798.4,
+            "LastTradeQty": 0,
+            "Open": 790.2,
+            "OpenInterest": 8410050,
+            "QuotationLot": 550.0,
+            "SellPrice": 797.2,
+            "SellQty": 550,
+            "TotalQtyTraded": 3007950,
+            "Value": 2394568836.0,
+            "PreOpen": false,
+            "PriceChange": 12.35,
+            "PriceChangePercentage": 1.57,
+            "OpenInterestChange": 483450,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "PFC-I",
+            "LastTradeTime": 1687168798,
+            "ServerTime": 1687168798,
+            "AverageTradedPrice": 198.55,
+            "BuyPrice": 198.2,
+            "BuyQty": 12400,
+            "Close": 198.05,
+            "High": 200.5,
+            "Low": 196.55,
+            "LastTradePrice": 198.25,
+            "LastTradeQty": 0,
+            "Open": 199.15,
+            "OpenInterest": 61795400,
+            "QuotationLot": 6200.0,
+            "SellPrice": 198.35,
+            "SellQty": 6200,
+            "TotalQtyTraded": 14904800,
+            "Value": 2959348040.0,
+            "PreOpen": false,
+            "PriceChange": 0.2,
+            "PriceChangePercentage": 0.1,
+            "OpenInterestChange": -874200,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "PIDILITIND-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 2696.39,
+            "BuyPrice": 2683.2,
+            "BuyQty": 250,
+            "Close": 2706.75,
+            "High": 2725.0,
+            "Low": 2680.0,
+            "LastTradePrice": 2688.4,
+            "LastTradeQty": 0,
+            "Open": 2718.2,
+            "OpenInterest": 2179250,
+            "QuotationLot": 250.0,
+            "SellPrice": 2689.0,
+            "SellQty": 250,
+            "TotalQtyTraded": 354250,
+            "Value": 955196157.5,
+            "PreOpen": false,
+            "PriceChange": -18.35,
+            "PriceChangePercentage": -0.68,
+            "OpenInterestChange": 74250,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "PNB-I",
+            "LastTradeTime": 1687168805,
+            "ServerTime": 1687168805,
+            "AverageTradedPrice": 51.53,
+            "BuyPrice": 51.45,
+            "BuyQty": 96000,
+            "Close": 51.1,
+            "High": 52.0,
+            "Low": 50.65,
+            "LastTradePrice": 51.45,
+            "LastTradeQty": 80000,
+            "Open": 50.8,
+            "OpenInterest": 260368000,
+            "QuotationLot": 16000.0,
+            "SellPrice": 51.55,
+            "SellQty": 240000,
+            "TotalQtyTraded": 74688000,
+            "Value": 3848672640.0,
+            "PreOpen": false,
+            "PriceChange": 0.35,
+            "PriceChangePercentage": 0.68,
+            "OpenInterestChange": 2144000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "POLYCAB-I",
+            "LastTradeTime": 1687168798,
+            "ServerTime": 1687168799,
+            "AverageTradedPrice": 3536.41,
+            "BuyPrice": 3514.55,
+            "BuyQty": 300,
+            "Close": 3569.45,
+            "High": 3591.0,
+            "Low": 3504.95,
+            "LastTradePrice": 3519.4,
+            "LastTradeQty": 0,
+            "Open": 3572.05,
+            "OpenInterest": 1861500,
+            "QuotationLot": 300.0,
+            "SellPrice": 3519.5,
+            "SellQty": 300,
+            "TotalQtyTraded": 397800,
+            "Value": 1406783898.0,
+            "PreOpen": false,
+            "PriceChange": -50.05,
+            "PriceChangePercentage": -1.4,
+            "OpenInterestChange": -19200,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "POWERGRID-I",
+            "LastTradeTime": 1687168796,
+            "ServerTime": 1687168796,
+            "AverageTradedPrice": 245.23,
+            "BuyPrice": 244.35,
+            "BuyQty": 29700,
+            "Close": 247.3,
+            "High": 248.7,
+            "Low": 243.5,
+            "LastTradePrice": 244.4,
+            "LastTradeQty": 0,
+            "Open": 247.5,
+            "OpenInterest": 29111400,
+            "QuotationLot": 2700.0,
+            "SellPrice": 244.65,
+            "SellQty": 5400,
+            "TotalQtyTraded": 5724000,
+            "Value": 1403696520.0,
+            "PreOpen": false,
+            "PriceChange": -2.9,
+            "PriceChangePercentage": -1.17,
+            "OpenInterestChange": 194400,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "RBLBANK-I",
+            "LastTradeTime": 1687168811,
+            "ServerTime": 1687168811,
+            "AverageTradedPrice": 173.97,
+            "BuyPrice": 172.4,
+            "BuyQty": 5000,
+            "Close": 174.05,
+            "High": 176.6,
+            "Low": 171.8,
+            "LastTradePrice": 172.45,
+            "LastTradeQty": 0,
+            "Open": 173.6,
+            "OpenInterest": 45330000,
+            "QuotationLot": 5000.0,
+            "SellPrice": 172.6,
+            "SellQty": 5000,
+            "TotalQtyTraded": 10765000,
+            "Value": 1872787050.0,
+            "PreOpen": false,
+            "PriceChange": -1.6,
+            "PriceChangePercentage": -0.92,
+            "OpenInterestChange": -495000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "RECLTD-I",
+            "LastTradeTime": 1687168811,
+            "ServerTime": 1687168811,
+            "AverageTradedPrice": 153.75,
+            "BuyPrice": 154.05,
+            "BuyQty": 24000,
+            "Close": 153.35,
+            "High": 154.9,
+            "Low": 152.7,
+            "LastTradePrice": 154.2,
+            "LastTradeQty": 8000,
+            "Open": 153.05,
+            "OpenInterest": 55016000,
+            "QuotationLot": 8000.0,
+            "SellPrice": 154.25,
+            "SellQty": 8000,
+            "TotalQtyTraded": 14328000,
+            "Value": 2202930000.0,
+            "PreOpen": false,
+            "PriceChange": 0.85,
+            "PriceChangePercentage": 0.55,
+            "OpenInterestChange": 440000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "RELIANCE-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 2563.2,
+            "BuyPrice": 2559.55,
+            "BuyQty": 250,
+            "Close": 2581.95,
+            "High": 2590.3,
+            "Low": 2552.25,
+            "LastTradePrice": 2559.55,
+            "LastTradeQty": 0,
+            "Open": 2588.0,
+            "OpenInterest": 31858000,
+            "QuotationLot": 250.0,
+            "SellPrice": 2560.95,
+            "SellQty": 250,
+            "TotalQtyTraded": 5392500,
+            "Value": 13822056000.0,
+            "PreOpen": false,
+            "PriceChange": -22.4,
+            "PriceChangePercentage": -0.87,
+            "OpenInterestChange": -581000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "SAIL-I",
+            "LastTradeTime": 1687168807,
+            "ServerTime": 1687168807,
+            "AverageTradedPrice": 86.1,
+            "BuyPrice": 86.25,
+            "BuyQty": 32000,
+            "Close": 85.25,
+            "High": 86.75,
+            "Low": 85.4,
+            "LastTradePrice": 86.3,
+            "LastTradeQty": 32000,
+            "Open": 85.55,
+            "OpenInterest": 97088000,
+            "QuotationLot": 8000.0,
+            "SellPrice": 86.35,
+            "SellQty": 40000,
+            "TotalQtyTraded": 33440000,
+            "Value": 2879184000.0,
+            "PreOpen": false,
+            "PriceChange": 1.05,
+            "PriceChangePercentage": 1.23,
+            "OpenInterestChange": 952000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "SBILIFE-I",
+            "LastTradeTime": 1687168797,
+            "ServerTime": 1687168797,
+            "AverageTradedPrice": 1281.22,
+            "BuyPrice": 1282.05,
+            "BuyQty": 2250,
+            "Close": 1278.65,
+            "High": 1287.9,
+            "Low": 1275.25,
+            "LastTradePrice": 1283.2,
+            "LastTradeQty": 0,
+            "Open": 1282.8,
+            "OpenInterest": 8488500,
+            "QuotationLot": 750.0,
+            "SellPrice": 1284.3,
+            "SellQty": 750,
+            "TotalQtyTraded": 1350000,
+            "Value": 1729647000.0,
+            "PreOpen": false,
+            "PriceChange": 4.55,
+            "PriceChangePercentage": 0.36,
+            "OpenInterestChange": 243750,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "SBIN-I",
+            "LastTradeTime": 1687168800,
+            "ServerTime": 1687168800,
+            "AverageTradedPrice": 570.8,
+            "BuyPrice": 571.35,
+            "BuyQty": 3000,
+            "Close": 573.6,
+            "High": 574.5,
+            "Low": 568.15,
+            "LastTradePrice": 571.5,
+            "LastTradeQty": 1500,
+            "Open": 573.55,
+            "OpenInterest": 69733500,
+            "QuotationLot": 1500.0,
+            "SellPrice": 571.5,
+            "SellQty": 7500,
+            "TotalQtyTraded": 26268000,
+            "Value": 14993774400.0,
+            "PreOpen": false,
+            "PriceChange": -2.1,
+            "PriceChangePercentage": -0.37,
+            "OpenInterestChange": 1687500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "SRF-I",
+            "LastTradeTime": 1687168807,
+            "ServerTime": 1687168807,
+            "AverageTradedPrice": 2410.64,
+            "BuyPrice": 2413.05,
+            "BuyQty": 375,
+            "Close": 2403.15,
+            "High": 2422.0,
+            "Low": 2400.15,
+            "LastTradePrice": 2414.35,
+            "LastTradeQty": 375,
+            "Open": 2401.4,
+            "OpenInterest": 3437625,
+            "QuotationLot": 375.0,
+            "SellPrice": 2415.6,
+            "SellQty": 375,
+            "TotalQtyTraded": 532500,
+            "Value": 1283665800.0,
+            "PreOpen": false,
+            "PriceChange": 11.2,
+            "PriceChangePercentage": 0.47,
+            "OpenInterestChange": 7500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "SUNPHARMA-I",
+            "LastTradeTime": 1687168801,
+            "ServerTime": 1687168801,
+            "AverageTradedPrice": 1005.16,
+            "BuyPrice": 1005.15,
+            "BuyQty": 2100,
+            "Close": 997.05,
+            "High": 1010.45,
+            "Low": 996.3,
+            "LastTradePrice": 1005.25,
+            "LastTradeQty": 4900,
+            "Open": 1000.0,
+            "OpenInterest": 24994200,
+            "QuotationLot": 700.0,
+            "SellPrice": 1006.3,
+            "SellQty": 700,
+            "TotalQtyTraded": 2338000,
+            "Value": 2350064080.0,
+            "PreOpen": false,
+            "PriceChange": 8.2,
+            "PriceChangePercentage": 0.82,
+            "OpenInterestChange": 2100,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "SYNGENE-I",
+            "LastTradeTime": 1687168796,
+            "ServerTime": 1687168796,
+            "AverageTradedPrice": 749.57,
+            "BuyPrice": 746.65,
+            "BuyQty": 1000,
+            "Close": 745.35,
+            "High": 753.5,
+            "Low": 744.9,
+            "LastTradePrice": 747.3,
+            "LastTradeQty": 0,
+            "Open": 744.95,
+            "OpenInterest": 3020000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 747.9,
+            "SellQty": 1000,
+            "TotalQtyTraded": 438000,
+            "Value": 328311660.0,
+            "PreOpen": false,
+            "PriceChange": 1.95,
+            "PriceChangePercentage": 0.26,
+            "OpenInterestChange": -21000,
+            "MessageType": "LastQuoteResult"
+        }
+    ],
+    "MessageType": "LastQuoteArrayResult"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "AllowVMRunning": false,
+    "MessageType": "AllowVMRunningResult"
+}
+{
+    "AllowServerOSRunning": false,
+    "MessageType": "AllowServerOSRunningResult"
+}
+{
+    "Result": [
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ACC-I",
+            "LastTradeTime": 1687255199,
+            "ServerTime": 1687255199,
+            "AverageTradedPrice": 1832.69,
+            "BuyPrice": 1842.0,
+            "BuyQty": 250,
+            "Close": 1828.25,
+            "High": 1844.9,
+            "Low": 1813.45,
+            "LastTradePrice": 1842.0,
+            "LastTradeQty": 0,
+            "Open": 1827.7,
+            "OpenInterest": 4773500,
+            "QuotationLot": 250.0,
+            "SellPrice": 1842.5,
+            "SellQty": 750,
+            "TotalQtyTraded": 818750,
+            "Value": 1500514937.5,
+            "PreOpen": false,
+            "PriceChange": 13.75,
+            "PriceChangePercentage": 0.75,
+            "OpenInterestChange": 46750,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ADANIENT-I",
+            "LastTradeTime": 1687255199,
+            "ServerTime": 1687255199,
+            "AverageTradedPrice": 2421.02,
+            "BuyPrice": 2428.3,
+            "BuyQty": 250,
+            "Close": 2416.8,
+            "High": 2443.95,
+            "Low": 2393.95,
+            "LastTradePrice": 2428.1,
+            "LastTradeQty": 0,
+            "Open": 2439.75,
+            "OpenInterest": 10531000,
+            "QuotationLot": 250.0,
+            "SellPrice": 2429.0,
+            "SellQty": 250,
+            "TotalQtyTraded": 2672750,
+            "Value": 6470781205.0,
+            "PreOpen": false,
+            "PriceChange": 11.3,
+            "PriceChangePercentage": 0.47,
+            "OpenInterestChange": 139250,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ADANIPORTS-I",
+            "LastTradeTime": 1687255199,
+            "ServerTime": 1687255199,
+            "AverageTradedPrice": 735.7,
+            "BuyPrice": 739.1,
+            "BuyQty": 625,
+            "Close": 735.65,
+            "High": 739.85,
+            "Low": 730.95,
+            "LastTradePrice": 739.5,
+            "LastTradeQty": 2500,
+            "Open": 734.2,
+            "OpenInterest": 31406250,
+            "QuotationLot": 625.0,
+            "SellPrice": 739.5,
+            "SellQty": 1875,
+            "TotalQtyTraded": 3918125,
+            "Value": 2882564562.5,
+            "PreOpen": false,
+            "PriceChange": 3.85,
+            "PriceChangePercentage": 0.52,
+            "OpenInterestChange": 978750,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "AMBUJACEM-I",
+            "LastTradeTime": 1687255199,
+            "ServerTime": 1687255199,
+            "AverageTradedPrice": 450.62,
+            "BuyPrice": 450.55,
+            "BuyQty": 1800,
+            "Close": 454.95,
+            "High": 456.5,
+            "Low": 448.0,
+            "LastTradePrice": 450.95,
+            "LastTradeQty": 1800,
+            "Open": 455.85,
+            "OpenInterest": 49950000,
+            "QuotationLot": 1800.0,
+            "SellPrice": 451.0,
+            "SellQty": 9000,
+            "TotalQtyTraded": 5178600,
+            "Value": 2333580732.0,
+            "PreOpen": false,
+            "PriceChange": -4.0,
+            "PriceChangePercentage": -0.88,
+            "OpenInterestChange": -136800,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "APOLLOHOSP-I",
+            "LastTradeTime": 1687255351,
+            "ServerTime": 1687255352,
+            "AverageTradedPrice": 5172.31,
+            "BuyPrice": 5177.25,
+            "BuyQty": 125,
+            "Close": 5170.55,
+            "High": 5209.0,
+            "Low": 5118.0,
+            "LastTradePrice": 5181.5,
+            "LastTradeQty": 0,
+            "Open": 5192.85,
+            "OpenInterest": 1861125,
+            "QuotationLot": 125.0,
+            "SellPrice": 5182.0,
+            "SellQty": 125,
+            "TotalQtyTraded": 384750,
+            "Value": 1990046272.5,
+            "PreOpen": false,
+            "PriceChange": 10.95,
+            "PriceChangePercentage": 0.21,
+            "OpenInterestChange": -58500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASHOKLEY-I",
+            "LastTradeTime": 1687255200,
+            "ServerTime": 1687255200,
+            "AverageTradedPrice": 168.29,
+            "BuyPrice": 167.8,
+            "BuyQty": 5000,
+            "Close": 168.7,
+            "High": 171.2,
+            "Low": 165.8,
+            "LastTradePrice": 167.8,
+            "LastTradeQty": 5000,
+            "Open": 168.7,
+            "OpenInterest": 62105000,
+            "QuotationLot": 5000.0,
+            "SellPrice": 167.95,
+            "SellQty": 5000,
+            "TotalQtyTraded": 33915000,
+            "Value": 5707555350.0,
+            "PreOpen": false,
+            "PriceChange": -0.9,
+            "PriceChangePercentage": -0.53,
+            "OpenInterestChange": 1700000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASIANPAINT-I",
+            "LastTradeTime": 1687255199,
+            "ServerTime": 1687255199,
+            "AverageTradedPrice": 3308.7,
+            "BuyPrice": 3320.95,
+            "BuyQty": 200,
+            "Close": 3315.2,
+            "High": 3328.2,
+            "Low": 3284.6,
+            "LastTradePrice": 3320.9,
+            "LastTradeQty": 0,
+            "Open": 3321.2,
+            "OpenInterest": 4939400,
+            "QuotationLot": 200.0,
+            "SellPrice": 3322.5,
+            "SellQty": 200,
+            "TotalQtyTraded": 660000,
+            "Value": 2183742000.0,
+            "PreOpen": false,
+            "PriceChange": 5.7,
+            "PriceChangePercentage": 0.17,
+            "OpenInterestChange": 23000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASTRAL-I",
+            "LastTradeTime": 1687255198,
+            "ServerTime": 1687255199,
+            "AverageTradedPrice": 2000.36,
+            "BuyPrice": 1995.05,
+            "BuyQty": 367,
+            "Close": 1980.1,
+            "High": 2018.0,
+            "Low": 1979.6,
+            "LastTradePrice": 1995.4,
+            "LastTradeQty": 0,
+            "Open": 1979.6,
+            "OpenInterest": 2028409,
+            "QuotationLot": 367.0,
+            "SellPrice": 1996.35,
+            "SellQty": 367,
+            "TotalQtyTraded": 747579,
+            "Value": 1495427128.44,
+            "PreOpen": false,
+            "PriceChange": 15.3,
+            "PriceChangePercentage": 0.77,
+            "OpenInterestChange": 4404,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "AUBANK-I",
+            "LastTradeTime": 1687255201,
+            "ServerTime": 1687255201,
+            "AverageTradedPrice": 766.92,
+            "BuyPrice": 768.15,
+            "BuyQty": 2000,
+            "Close": 772.35,
+            "High": 772.0,
+            "Low": 763.5,
+            "LastTradePrice": 768.25,
+            "LastTradeQty": 11000,
+            "Open": 767.25,
+            "OpenInterest": 10076000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 768.5,
+            "SellQty": 1000,
+            "TotalQtyTraded": 1607000,
+            "Value": 1232440440.0,
+            "PreOpen": false,
+            "PriceChange": -4.1,
+            "PriceChangePercentage": -0.53,
+            "OpenInterestChange": -14000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "AUROPHARMA-I",
+            "LastTradeTime": 1687255199,
+            "ServerTime": 1687255200,
+            "AverageTradedPrice": 682.52,
+            "BuyPrice": 682.45,
+            "BuyQty": 1000,
+            "Close": 681.25,
+            "High": 686.1,
+            "Low": 676.35,
+            "LastTradePrice": 683.0,
+            "LastTradeQty": 0,
+            "Open": 680.25,
+            "OpenInterest": 9054000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 683.65,
+            "SellQty": 1000,
+            "TotalQtyTraded": 1401000,
+            "Value": 956210520.0,
+            "PreOpen": false,
+            "PriceChange": 1.75,
+            "PriceChangePercentage": 0.26,
+            "OpenInterestChange": 37000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "ASHOKLEY-I",
+            "LastTradeTime": 1687255200,
+            "ServerTime": 1687255200,
+            "AverageTradedPrice": 168.29,
+            "BuyPrice": 167.8,
+            "BuyQty": 5000,
+            "Close": 168.7,
+            "High": 171.2,
+            "Low": 165.8,
+            "LastTradePrice": 167.8,
+            "LastTradeQty": 5000,
+            "Open": 168.7,
+            "OpenInterest": 62105000,
+            "QuotationLot": 5000.0,
+            "SellPrice": 167.95,
+            "SellQty": 5000,
+            "TotalQtyTraded": 33915000,
+            "Value": 5707555350.0,
+            "PreOpen": false,
+            "PriceChange": -0.9,
+            "PriceChangePercentage": -0.53,
+            "OpenInterestChange": 1700000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BAJAJ-AUTO-I",
+            "LastTradeTime": 1687255200,
+            "ServerTime": 1687255200,
+            "AverageTradedPrice": 4646.41,
+            "BuyPrice": 4682.75,
+            "BuyQty": 250,
+            "Close": 4616.0,
+            "High": 4684.95,
+            "Low": 4589.0,
+            "LastTradePrice": 4684.9,
+            "LastTradeQty": 250,
+            "Open": 4603.8,
+            "OpenInterest": 2491500,
+            "QuotationLot": 250.0,
+            "SellPrice": 4684.9,
+            "SellQty": 250,
+            "TotalQtyTraded": 625000,
+            "Value": 2904006250.0,
+            "PreOpen": false,
+            "PriceChange": 68.9,
+            "PriceChangePercentage": 1.49,
+            "OpenInterestChange": -6000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BAJAJFINSV-I",
+            "LastTradeTime": 1687255198,
+            "ServerTime": 1687255199,
+            "AverageTradedPrice": 1518.44,
+            "BuyPrice": 1525.0,
+            "BuyQty": 1000,
+            "Close": 1544.35,
+            "High": 1544.95,
+            "Low": 1504.0,
+            "LastTradePrice": 1525.85,
+            "LastTradeQty": 0,
+            "Open": 1544.1,
+            "OpenInterest": 8219500,
+            "QuotationLot": 500.0,
+            "SellPrice": 1525.7,
+            "SellQty": 500,
+            "TotalQtyTraded": 2672000,
+            "Value": 4057271680.0,
+            "PreOpen": false,
+            "PriceChange": -18.5,
+            "PriceChangePercentage": -1.2,
+            "OpenInterestChange": 500000,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BAJFINANCE-I",
+            "LastTradeTime": 1687255200,
+            "ServerTime": 1687255200,
+            "AverageTradedPrice": 7268.27,
+            "BuyPrice": 7280.05,
+            "BuyQty": 125,
+            "Close": 7393.65,
+            "High": 7389.95,
+            "Low": 7218.25,
+            "LastTradePrice": 7281.85,
+            "LastTradeQty": 125,
+            "Open": 7389.95,
+            "OpenInterest": 3567625,
+            "QuotationLot": 125.0,
+            "SellPrice": 7281.85,
+            "SellQty": 375,
+            "TotalQtyTraded": 1457375,
+            "Value": 10592594991.25,
+            "PreOpen": false,
+            "PriceChange": -111.8,
+            "PriceChangePercentage": -1.51,
+            "OpenInterestChange": -52250,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BANDHANBNK-I",
+            "LastTradeTime": 1687255206,
+            "ServerTime": 1687255206,
+            "AverageTradedPrice": 247.53,
+            "BuyPrice": 247.8,
+            "BuyQty": 1800,
+            "Close": 250.55,
+            "High": 251.3,
+            "Low": 245.5,
+            "LastTradePrice": 247.85,
+            "LastTradeQty": 7200,
+            "Open": 251.05,
+            "OpenInterest": 33044400,
+            "QuotationLot": 1800.0,
+            "SellPrice": 248.05,
+            "SellQty": 1800,
+            "TotalQtyTraded": 6224400,
+            "Value": 1540725732.0,
+            "PreOpen": false,
+            "PriceChange": -2.7,
+            "PriceChangePercentage": -1.08,
+            "OpenInterestChange": 1096200,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BANKBARODA-I",
+            "LastTradeTime": 1687255206,
+            "ServerTime": 1687255206,
+            "AverageTradedPrice": 195.43,
+            "BuyPrice": 195.65,
+            "BuyQty": 5850,
+            "Close": 194.6,
+            "High": 197.2,
+            "Low": 193.7,
+            "LastTradePrice": 195.7,
+            "LastTradeQty": 46800,
+            "Open": 195.5,
+            "OpenInterest": 93231450,
+            "QuotationLot": 5850.0,
+            "SellPrice": 195.75,
+            "SellQty": 5850,
+            "TotalQtyTraded": 44811000,
+            "Value": 8757413730.0,
+            "PreOpen": false,
+            "PriceChange": 1.1,
+            "PriceChangePercentage": 0.57,
+            "OpenInterestChange": 2152800,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BATAINDIA-I",
+            "LastTradeTime": 1687255199,
+            "ServerTime": 1687255199,
+            "AverageTradedPrice": 1638.21,
+            "BuyPrice": 1641.0,
+            "BuyQty": 275,
+            "Close": 1628.75,
+            "High": 1646.8,
+            "Low": 1620.15,
+            "LastTradePrice": 1641.85,
+            "LastTradeQty": 0,
+            "Open": 1628.2,
+            "OpenInterest": 1796575,
+            "QuotationLot": 275.0,
+            "SellPrice": 1642.75,
+            "SellQty": 275,
+            "TotalQtyTraded": 554675,
+            "Value": 908674131.75,
+            "PreOpen": false,
+            "PriceChange": 13.1,
+            "PriceChangePercentage": 0.8,
+            "OpenInterestChange": 100375,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BEL-I",
+            "LastTradeTime": 1687255206,
+            "ServerTime": 1687255206,
+            "AverageTradedPrice": 125.57,
+            "BuyPrice": 125.65,
+            "BuyQty": 22800,
+            "Close": 125.2,
+            "High": 127.25,
+            "Low": 124.15,
+            "LastTradePrice": 125.65,
+            "LastTradeQty": 57000,
+            "Open": 125.3,
+            "OpenInterest": 70497600,
+            "QuotationLot": 5700.0,
+            "SellPrice": 125.7,
+            "SellQty": 5700,
+            "TotalQtyTraded": 21466200,
+            "Value": 2695510734.0,
+            "PreOpen": false,
+            "PriceChange": 0.45,
+            "PriceChangePercentage": 0.36,
+            "OpenInterestChange": 2553600,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BERGEPAINT-I",
+            "LastTradeTime": 1687255199,
+            "ServerTime": 1687255199,
+            "AverageTradedPrice": 672.12,
+            "BuyPrice": 673.1,
+            "BuyQty": 1100,
+            "Close": 675.95,
+            "High": 678.9,
+            "Low": 668.2,
+            "LastTradePrice": 673.15,
+            "LastTradeQty": 0,
+            "Open": 670.9,
+            "OpenInterest": 7558100,
+            "QuotationLot": 1100.0,
+            "SellPrice": 674.95,
+            "SellQty": 1100,
+            "TotalQtyTraded": 887700,
+            "Value": 596640924.0,
+            "PreOpen": false,
+            "PriceChange": -2.8,
+            "PriceChangePercentage": -0.41,
+            "OpenInterestChange": -115500,
+            "MessageType": "LastQuoteResult"
+        },
+        {
+            "Exchange": "NFO",
+            "InstrumentIdentifier": "BHARATFORG-I",
+            "LastTradeTime": 1687255206,
+            "ServerTime": 1687255206,
+            "AverageTradedPrice": 820.48,
+            "BuyPrice": 822.4,
+            "BuyQty": 4000,
+            "Close": 829.45,
+            "High": 830.4,
+            "Low": 815.05,
+            "LastTradePrice": 822.45,
+            "LastTradeQty": 10000,
+            "Open": 829.8,
+            "OpenInterest": 8125000,
+            "QuotationLot": 1000.0,
+            "SellPrice": 823.35,
+            "SellQty": 1000,
+            "TotalQtyTraded": 2429000,
+            "Value": 1992945920.0,
+            "PreOpen": false,
+            "PriceChange": -7.0,
+            "PriceChangePercentage": -0.84,
+            "OpenInterestChange": 410000,
+            "MessageType": "LastQuoteResult"
+        }
+    ],
+    "MessageType": "LastQuoteArrayResult"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "MessageType": "Echo"
+}
+{
+    "AllowVMRunning": false,
+    "MessageType": "AllowVMRunningResult"
+}

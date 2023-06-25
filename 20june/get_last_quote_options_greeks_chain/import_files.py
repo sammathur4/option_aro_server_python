@@ -19,6 +19,8 @@ db = client['OPTIONARO']
 lastquoteoptiongreekschain_realtime_db = db["lastquoteoptiongreekschain_realtime"]
 lastquoteoptiongreekschain_historic_db = db["lastquoteoptiongreekschain_historic"]
 
+new_lastquoteoptiongreekschain_historic_db = db['new_lastquoteoptiongreekschain_historic_db']
+
 msg = None
 
 endpoint, port, auth_message, api_key = details()

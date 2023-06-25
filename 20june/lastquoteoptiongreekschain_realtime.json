@@ -303,6 +303,8 @@
     {
         "Exchange": "NFO",
         "InstrumentIdentifier": "OPTIDX_NIFTY_06JUL2023_CE_15850",
+        "OptionType": "CE",
+        "Strike_Value": 15850,
         "LastTradeTime": 0,
         "AverageTradedPrice": 0.0,
         "BuyPrice": 0.0,
